@@ -1,0 +1,7 @@
+.container {
+    border-style: double;
+    border: 5px solid black;
+    width:500px;
+    padding: 1rem;
+    border-radius: 20px;
+}
